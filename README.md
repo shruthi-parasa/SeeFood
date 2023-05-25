@@ -1,1 +1,2 @@
 # SeeFood
+  This is an innovative app with a user-friendly interface built on Storyboard, SwiftUI, and CoreML, designed to empower and assist the visually impaired and disabled persons. By utilizing the power of your smartphone’s camera, See Food allows individuals to shop for their groceries faster. Simply point your phone at the object and our app will identify the fruit or vegetable with ease and convenience.
